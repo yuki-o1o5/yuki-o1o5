@@ -1,4 +1,4 @@
-<img width="100%" alt="Yuki Kasugai" src="./images/Yuki Kasugai.png">
+<img width="100%" alt="Yuki Kasugai" src="./Yuki Kasugai.png">
 
 <p align="center">A front-end developer who has a strength in communication and a passion for creating services and products that enrich people's lives.</p>
 
@@ -12,8 +12,8 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="./images/nextjs-icon-dark-background.png" alt="Next.js" width="40" height="40"/> </a>
-<a href="https://vercel.com/" target="_blank"> <img src="./images/vercel-icon-dark.png"alt="Vercel" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="./nextjs-icon-dark-background.png" alt="Next.js" width="40" height="40"/> </a>
+<a href="https://vercel.com/" target="_blank"> <img src="./vercel-icon-dark.png"alt="Vercel" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
 </p>
