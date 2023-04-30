@@ -25,7 +25,6 @@
 
 <p>Links</p>
 
-👨‍💻&nbsp;All of my projects are available at<br>[https://yukikasugai.vercel.app/](https://yukikasugai.vercel.app/)<br>
 📫&nbsp;How to reach me<br>**yukikasugai5@gmail.com**<br>
 📄&nbsp;Know about my experiences<br>[https://www.linkedin.com/in/yuki-kasugai/](https://www.linkedin.com/in/yuki-kasugai/)
 
