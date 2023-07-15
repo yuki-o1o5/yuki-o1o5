@@ -24,8 +24,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuki-o1o5&show_icons=true&theme=merko&locale=en" alt="github.com/yuki-o1o5" />
 
 <p>Links</p>
-
+👨‍💻&nbsp;All of my projects are available at<br>https://my-portfolio-yuki-o1o5.vercel.app/<br>
 📫&nbsp;How to reach me<br>**yukikasugai5@gmail.com**<br>
-📄&nbsp;Know about my experiences<br>[https://www.linkedin.com/in/yuki-kasugai/](https://www.linkedin.com/in/yuki-kasugai/)
+📄&nbsp;Know about my experiences<br>https://www.linkedin.com/in/yuki-kasugai/<br>
 
 </div>
