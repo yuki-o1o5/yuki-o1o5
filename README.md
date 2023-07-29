@@ -1,4 +1,4 @@
-<img width="100%" alt="Yuki Kasugai" src="./Yuki Kasugai.png">
+<img width="100%" alt="Yuki Kasugai" src="./yuki_kasugai_banner.png">
 
 <p align="center">A front-end developer who has a strength in communication and a passion for creating services and products that enrich people's lives.</p>
 
