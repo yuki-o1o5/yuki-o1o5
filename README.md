@@ -4,7 +4,7 @@
 
 <h3>Links</h3>
 <ul>
-  <li> 👨‍💻&nbsp;All of my projects are available at <a href="https://my-portfolio-yuki-o1o5.vercel.app/">my portfolio</a> </li>
+  <li> 👨‍💻&nbsp;All of my projects are available at <a href="https://yukikasugai.vercel.app/">my portfolio</a> </li>
   <li> 📫&nbsp;How to reach me <a href="mailto:yukikasugai5@gmail.com">yukikasugai5@gmail.com</a></li>
   <li> 📄&nbsp;Know about my experiences <a href="https://www.linkedin.com/in/yuki-kasugai/"target="blank">LinkedIn</a></li>
 </ul>
